@@ -97,7 +97,7 @@ Ergebnis:
 ```
 
 Ergebnis:  
-![Alt-Text](https://example.com/bild.png)
+![Alt-Text](https://picsum.photos/300/300)
 
 ---
 
